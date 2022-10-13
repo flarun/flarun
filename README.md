@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @flarun
-- 👀 I’m interested in Full Stack Web Development
+- 👀 I’m interested in Full Stack Web Development, Game Development, Machine Learning
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on react-grid-layout
 - 📫 How to reach me: runceanuflavius@gmail.com
