@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flarun, Software Engineer and Front-End Web Developer
 - 👀 I’m interested in Full Stack Web Development, Game Development, Machine Learning
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Ocaml, .NET and C#
 - 💞️ I’m looking to collaborate on react-grid-layout
 - 📫 How to reach me: runceanuflavius@gmail.com
 
