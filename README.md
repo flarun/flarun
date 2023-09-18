@@ -14,7 +14,7 @@
   Hi, I'm Flavius Constantin Runceanu, Computer Scientist & Web Developer from ITALY.
   <br>
   <br>
-  👨‍🎓 I studied Computer Science at the University of Luxembourg ([Uni.lu](https://www.uni.lu/en/)). I am currently studying a Bachelor Degree in Quantitative Economics and Digital Enterprise at the University of Brescia ([Unibs.it](https://www.unibs.it/en)).
+  👨‍🎓 I studied Computer Science at the University of Luxembourg (Uni.lu). I am currently studying a Bachelor Degree in Quantitative Economics and Digital Enterprise at the University of Brescia (Unibs.it).
   <br>
   💻 I love Writing code, and learning everything about it 💡
   <br>
