@@ -12,7 +12,7 @@
 ### <img src="/images/Developer.gif" alt="developer gif"  height="45px"> About Me:
 
 <p align="center">
-  Hi, I'm **Flavius Constantin Runceanu**, Computer Scientist & Web Developer from ITALY.
+  Hi, I'm <b>Flavius Constantin Runceanu</b>, Computer Scientist & Web Developer from ITALY.
   <br>
   <br>
   👨‍🎓 I studied Computer Science at the University of Luxembourg (Uni.lu). I am currently studying a Bachelor Degree in Quantitative Economics and Digital Enterprise at the University of Brescia (Unibs.it).
