@@ -2,9 +2,11 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=This+is+Flavius;Nice+to+meet+you!)](https://git.io/typing-svg)  -->
 
 <h1 align="center">
+<center>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=This+is+Flavius;Nice+to+meet+you!">
   </a>
+  </center>
 </h1>
 
 ### <img src="/images/Developer.gif" alt="developer gif"  height="45px"> About Me:
