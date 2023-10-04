@@ -117,7 +117,7 @@
 
 <p align="center">
   <img title="Sql Database Management" height="75" src="images/sql-database-generic.svg">
-  <img title="Back End Web Development" height="75" src="images/nodejs.png">
+  <img title="Back End Web Development" height="75" src="images/nodejs-black.png">
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
