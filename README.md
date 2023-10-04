@@ -87,27 +87,27 @@
         <td><i>Description</i></td>
     </tr>
     <tr>
-        <td>Architecture Choice</td>
+        <td><b>Architecture Choice</b></td>
         <td>Choosing the right ML architecture for the right problem</td>
     </tr>
     <tr>
-        <td>Hyperparameter Adjustment</td>
+        <td><b>Hyperparameter Adjustment</b></td>
         <td>Adjusting the hyperparameters for optimal learning</td>
     </tr>
     <tr>
-        <td>Model development</td>
+        <td><b>Model development</b></td>
         <td>Building the model from scratch</td>
     </tr>
     <tr>
-        <td>Model Training</td>
+        <td><b>Model Training</b></td>
         <td>Forward and backward propagation through data feed</td>
     </tr>
     <tr>
-        <td>Model Validation</td>
+        <td><b>Model Validation</b></td>
         <td>Accuracy and functionality check and improvement</td>
     </tr>
     <tr>
-        <td>Model Deployment and maintenance</td>
+        <td><b>Model Deployment and maintenance</b></td>
         <td>Production channel, adjustments, bug fixes</td>
     </tr>
 </table>
