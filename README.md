@@ -116,7 +116,7 @@
   <h3 >SQL Database Management</h3>
   <img title="Sql Database Management" height="75" src="images/sql.png">
   <h3 >Back End Web Development</h3>
-  <img title="Back end Development" height="75" src="images/nodejs.png">
+  <img title="Back End Web Development" height="75" src="images/nodejs.png">
 </p>
 <hr>
 
