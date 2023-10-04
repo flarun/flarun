@@ -100,15 +100,36 @@
 <!-- Include Descriptions under the icons -->
 <!-- TODO -->
 <h3 align="center"> Machine Learning/Deep Learning </h3>
-| Skills                           | Description                                              |
-|----------------------------------|----------------------------------------------------------|
-| Architecture Choice              | Choosing the right ML architecture for the right problem |
-| Hyperparameter Adjustment        | Adjusting the hyperparameters for optimal learning       |
-| Model development                | Building the model from scratch                          |
-| Model Training                   | Forward and backward propagation through data feed       |
-| Model Validation                 | Accuracy and functionality check and improvement         |
-| Model Deployment and maintenance | Production channel, adjustments, bug fixes               |
-
+<table>
+    <tr>
+        <td>Skills</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>Architecture Choice</td>
+        <td>Choosing the right ML architecture for the right problem</td>
+    </tr>
+    <tr>
+        <td>Hyperparameter Adjustment</td>
+        <td>Adjusting the hyperparameters for optimal learning</td>
+    </tr>
+    <tr>
+        <td>Model development</td>
+        <td>Building the model from scratch</td>
+    </tr>
+    <tr>
+        <td>Model Training</td>
+        <td>Forward and backward propagation through data feed</td>
+    </tr>
+    <tr>
+        <td>Model Validation</td>
+        <td>Accuracy and functionality check and improvement</td>
+    </tr>
+    <tr>
+        <td>Model Deployment and maintenance</td>
+        <td>Production channel, adjustments, bug fixes</td>
+    </tr>
+</table>
   <img title="Sql Database Management" height="25" src="images/sql.png">
       <!-- TODO -->
   <img title="Back end Development" height="25" src="images/nodejs.png">
