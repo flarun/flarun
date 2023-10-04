@@ -79,9 +79,7 @@
 <h2 align="center">🟢 Abilities 🟢</h2><br>
 <p align="center">
 <!-- Data Analysis, Deep learning model training and validation, Back end development, SQL databases -->
-    <!-- TODO -->
-<!-- Include Descriptions under the icons -->
-<!-- TODO -->
+
 <h3 align="center"> Machine Learning/Deep Learning </h3>
 <table align="center">
     <tr>
@@ -114,10 +112,10 @@
     </tr>
 </table>
 </p>
-<p align="center"> 
-  <img title="Sql Database Management" height="75" src="images/sql.png">
-  <img title="Back end Development" height="75" src="images/nodejs.png">
-</p>
+  <h3 align="center" >SQL Database Management</h3>
+  <img align="center" title="Sql Database Management" height="75" src="images/sql.png">
+  <h3 align="center"Back End Web Development</h3>
+  <img align="center" title="Back end Development" height="75" src="images/nodejs.png">
 
 <hr>
 
