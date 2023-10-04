@@ -113,7 +113,7 @@
 </table>
 </p>
 
-<h2 align="center">SQL Database Management + Back End Web Development</h2><br>
+<h3 align="center">SQL Database Management + Back End Web Development</h3><br>
 
 <p align="center">
   <img title="Sql Database Management" height="75" src="images/sql-database-generic.svg">
