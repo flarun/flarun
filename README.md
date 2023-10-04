@@ -17,16 +17,16 @@
   👨‍🎓 I studied Computer Science at the University of Luxembourg (Uni.lu). I am currently studying a Bachelor Degree in Computer Science and Engineering at the University of Brescia (Unibs.it)
   <br>
   <br>
-  📊 I love looking into data, finding patterns, and learning everything about it
+  📊 I love looking into data, finding patterns, and learning everything about it!
   <br>
-  ⚔️ I love coding and solving complex problems
+  ⚔️ I love coding and solving complex problems!
   <br>
   <br>
-  💻 I have 3+ years experience in Tensorflow, PyTorch, Keras, fast.ai, scikit-learn, pandas 
+  💻 I have 3+ years experience in Tensorflow, PyTorch, Keras, fast.ai, scikit-learn, pandas
   <br>
-  📚 I’m currently focusing on Machine Learning/Statistics
+  📚 I’m currently focusing on Machine Learning/Statistics.
   <br>
-  📈 I'm passionate about Data Science, Deep Learning and its applications in Self-driving cars, Financial Models among all of its uses.
+  📈 I'm passionate about <b>Data Science, Deep Learning</b> and its applications in <b>Self-driving cars, Financial Models, Large Language Models</b>.
   <br>
   📫 How to reach me 👇
 </p>
