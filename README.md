@@ -14,7 +14,11 @@
   Hi, I'm <b>Flavius Constantin Runceanu</b>, Computer Engineer and Data Scientist from ITALY.
   <br>
   <br>
+<<<<<<< HEAD
   👨‍🎓 I studied Computer Science at the University of Luxembourg (Uni.lu). I am currently studying a Bachelor Degree in Computer Science and Engineering at the University of Brescia (Unibs.it)
+=======
+  👨‍🎓 I studied Computer Science at the University of Luxembourg (Uni.lu). I am currently studying a Bachelor Degree in Computer Engineering at the University of Brescia (Unibs.it)
+>>>>>>> cbb8048e24813a7c48c699896222cde4c1e4236d
   <br>
   <br>
   📊 I love looking into data, finding patterns, and learning everything about it
