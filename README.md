@@ -83,7 +83,7 @@
 <!-- Include Descriptions under the icons -->
 <!-- TODO -->
 <h3 align="center"> Machine Learning/Deep Learning </h3>
-<table>
+<table align="center">
     <tr>
         <td>Skills</td>
         <td>Description</td>
