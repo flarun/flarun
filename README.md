@@ -28,7 +28,10 @@
   <br>
   📈 I'm passionate about <b>Data Science, Deep Learning</b> and its applications in <b>Self-driving cars, Financial Models, Large Language Models</b>.
   <br>
-  📫 How to reach me 👇
+  <br>
+  <h2>
+  📫 <b>How to reach me</b> 👇
+  </h2>
 </p>
 <p align="center">
 
