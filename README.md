@@ -130,9 +130,10 @@
         <td>Production channel, adjustments, bug fixes</td>
     </tr>
 </table>
-  <img title="Sql Database Management" height="25" src="images/sql.png">
-      <!-- TODO -->
-  <img title="Back end Development" height="25" src="images/nodejs.png">
+</p>
+<p align="center"> 
+  <img title="Sql Database Management" height="75" src="images/sql.png">
+  <img title="Back end Development" height="75" src="images/nodejs.png">
 </p>
 
 <hr>
