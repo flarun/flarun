@@ -29,31 +29,15 @@
   📈 I'm passionate about <b>Data Science, Deep Learning</b> and its applications in <b>Self-driving cars, Financial Models, Large Language Models</b>.
   <br>
   <br>
-  <h2>
+  <h3>
   📫 <b>How to reach me</b> 👇
-  </h2>
+  </h3>
 </p>
 <p align="center">
 
   <!-- LINKEDIN -->
 
-<a href="https://www.linkedin.com/in/flavius-constantin-runceanu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
-
-  <!-- EMAIL -->
-
-<a href="mailto:runceanuflavius@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
-
-  <!-- WHATSAPP -->
-
-<a href="http://wa.me//00393204616889"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a>
-
-  <!-- TELEGRAM -->
-
-<a href="https://t.me/mynameisflavius"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a>
-
-  <!-- FACEBOOK -->
-
-<a href="https://www.facebook.com/profile.php?id=100071589776163"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=23></a>
+<a href="https://www.linkedin.com/in/flavius-constantin-runceanu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <!-- EMAIL --> <a href="mailto:runceanuflavius@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <!-- WHATSAPP --> <a href="http://wa.me//00393204616889"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> <!-- TELEGRAM --> <a href="https://t.me/mynameisflavius"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a> <!-- FACEBOOK --> <a href="https://www.facebook.com/profile.php?id=100071589776163"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=23></a>
 
 <hr>
 
