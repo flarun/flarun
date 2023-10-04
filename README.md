@@ -112,11 +112,12 @@
     </tr>
 </table>
 </p>
-  <h3 align="center" >SQL Database Management</h3>
-  <img align="center" title="Sql Database Management" height="75" src="images/sql.png">
-  <h3 align="center">Back End Web Development</h3>
-  <img align="center" title="Back end Development" height="75" src="images/nodejs.png">
-
+<p align="center">
+  <h3 >SQL Database Management</h3>
+  <img title="Sql Database Management" height="75" src="images/sql.png">
+  <h3 >Back End Web Development</h3>
+  <img title="Back end Development" height="75" src="images/nodejs.png">
+</p>
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
