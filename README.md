@@ -85,8 +85,8 @@
 <h3 align="center"> Machine Learning/Deep Learning </h3>
 <table align="center">
     <tr>
-        <td>Skills</td>
-        <td>Description</td>
+        <td><i>Skills</i></td>
+        <td><i>Description</i></td>
     </tr>
     <tr>
         <td>Architecture Choice</td>
