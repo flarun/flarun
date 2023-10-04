@@ -1,5 +1,4 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA">
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=This+is+Flavius;Nice+to+meet+you!)](https://git.io/typing-svg)  -->
+<!-- FLARUN  -->
 
 <h1 align="center">
 <center>
@@ -12,46 +11,105 @@
 ### <img src="/images/Developer.gif" alt="developer gif"  height="45px"> About Me:
 
 <p align="center">
-  Hi, I'm <b>Flavius Constantin Runceanu</b>, Computer Scientist & Web Developer from ITALY.
+  Hi, I'm <b>Flavius Constantin Runceanu</b>, Computer Engineer and Data Scientist from ITALY.
   <br>
   <br>
-  👨‍🎓 I studied Computer Science at the University of Luxembourg (Uni.lu). I am currently studying a Bachelor Degree in Quantitative Economics and Digital Enterprise at the University of Brescia (Unibs.it)
+  👨‍🎓 I studied Computer Science at the University of Luxembourg (Uni.lu). I am currently studying a Bachelor Degree in Computer Science and Engineering at the University of Brescia (Unibs.it)
   <br>
   <br>
-  💻 I love Writing code, and learning everything about it 💡
+  📊 I love looking into data, finding patterns, and learning everything about it
   <br>
-  I have experience in React and Angular, as in Node.js and SQL. I love making Websites and I'm a very visual person 👀
+  ⚔️ I love coding and solving complex problems
   <br>
-  📚 I’m currently focusing on Machine Learning/Statistics and its applications in Financial Analysis 📈
+  
+  💻 I have 3+ years experience in Tensorflow, PyTorch, Keras, fast.ai, scikit-learn, pandas 
+  <br>
+  📚 I’m currently focusing on Machine Learning/Statistics
+  <br>
+  📈 I'm passionate about Data Science, Deep Learning and its applications in Self-driving cars, Financial Models among all of its uses.
   <br>
   📫 How to reach me 👇
 </p>
-<p align="center"> <a href="https://www.linkedin.com/in/flavius-constantin-runceanu-97b1b01ba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:runceanuflavius@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="http://wa.me//00393204616889"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> <a href="https://www.facebook.com/profile.php?id=100071589776163"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=23></a> 
-<!--   <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
- <!--  <a href="https://www.youtube.com/watch?v=p0uAJ6Eu4Rs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a> -->
-  <a href="https://t.me/mynameisflavius"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a>  <a href="https://codeforces.com/profile/flarun"><img src="https://img.shields.io/badge/codeforces-%234566B5.svg?&style=for-the-badge&logo=codeforces&logoColor=white" height=23></a></p>
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
-<!--   <code><img title="C" height="25" src="images/c.svg"></code> -->
-  <img title="C++" height="25" src="images/cpp.svg"></code>
-  <img title="Problem Solving" height="25" src="images/problemSolving.png">
-<!--   <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
+
+  <!-- LINKEDIN -->
+
+<a href="https://www.linkedin.com/in/flavius-constantin-runceanu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
+
+  <!-- EMAIL -->
+
+<a href="mailto:runceanuflavius@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
+
+  <!-- WHATSAPP -->
+
+<a href="http://wa.me//00393204616889"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a>
+
+  <!-- TELEGRAM -->
+
+<a href="https://t.me/mynameisflavius"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a>
+
+  <!-- FACEBOOK -->
+
+<a href="https://www.facebook.com/profile.php?id=100071589776163"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=23></a>
+
+<hr>
+
+<h2 align="center">💻 Languages 💻</h2><br>
+
+<!-- Assembly, C, C++, C#, Java, Haskell, OCaml, Python, SQL, Javascript, TypeScript, PHP -->
+
+<p align="center">
   <img title="Python" height="25" src="images/python-original.svg">
+  <img title="Java" height="25" src="images/java.svg">
+  <img title="C" height="25" src="images/c.svg">
+  <img title="C++" height="25" src="images/cpp.svg">
+  <img title="C#" height="25" src="images/cSharp.svg">
+  <img title="Javascript" height="25" src="images/javascript.svg">
+    <img title="TypeScript" height="25" src="images/Typescript.svg">
+  <img title="Haskell" height="25" src="images/haskell.svg">
+  <img title="OCaml" height="25" src="images/ocaml.svg">
+  <img title="PHP" height="25" src="images/php.svg">
+</p>
+
+<h2 align="center">⚙️ Frameworks & Tools 🔨</h2><br>
+
+<!-- Tensorflow, PyTorch, Fast.ai, Numpy, Matplotlib, Seaborn, ReactJS, Angular, PostgreSQL -->
+
+<p align="center">
+  <img title="Tensorflow" height="25" src="images/Tensorflow.png">
+  <img title="PyTorch" height="25" src="images/pytorch.png">
+  <img title="Fast.ai" height="25" src="images/fastai_small.png">
   <img title="Numpy" height="25" src="images/numpy.svg">
   <img title="Pandas" height="25" src="images/pandas.svg">
   <img title="Matplotlib" height="25" src="images/matplotlib.svg">
   <img title="Seaborn" height="25" src="images/seaborn.svg">
   <img title="Scikit Learn" height="25" src="images/Scikit_learn.svg">
-  <img title="HTML5" height="25" src="images/html5.svg">
-  <img title="CSS" height="25" src="images/css.svg">
-  <img title="Javascript" height="25" src="images/javascript.svg">
-  <img title="JSON" height="25" src="images/json.svg">
-  <img title="Git" height="25" src="images/git-original.svg">
-  <img title="GitHub" height="25" src="images/github.svg">
-  <img title="Visual Studio Code" height="25" src="images/vscode.png">
-<!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
+  <img title="ReactJS" height="25" src="images/reactjs.svg">
+  <img title="Angular" height="25" src="images/angular.svg">
+  <img title="PostgreSQL" height="25" src="images/postgresql.svg">
 </p>
+
+<h2 align="center">🟢 Abilities 🟢</h2><br>
+<p align="center">
+<!-- Data Analysis, Deep learning model training and validation, Back end development, SQL databases -->
+    <!-- TODO -->
+<!-- Include Descriptions under the icons -->
+<!-- TODO -->
+<h3 align="center"> Machine Learning/Deep Learning </h3>
+| Skills                           | Description                                              |
+|----------------------------------|----------------------------------------------------------|
+| Architecture Choice              | Choosing the right ML architecture for the right problem |
+| Hyperparameter Adjustment        | Adjusting the hyperparameters for optimal learning       |
+| Model development                | Building the model from scratch                          |
+| Model Training                   | Forward and backward propagation through data feed       |
+| Model Validation                 | Accuracy and functionality check and improvement         |
+| Model Deployment and maintenance | Production channel, adjustments, bug fixes               |
+
+  <img title="Sql Database Management" height="25" src="images/sql.png">
+      <!-- TODO -->
+  <img title="Back end Development" height="25" src="images/nodejs.png">
+</p>
+
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -62,35 +120,7 @@
       <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=flarun&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  </a>
 </p>
-<!--
-<hr>
-<h2 align="center">💹 Most Popular Repos 💹</h2>
-<br>
-<p align="center">
-<a href="https://github.com/HalemoGPA/Learn-Js/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HalemoGPA&repo=Learn-Js&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
-<!--
-<a href="https://github.com/HalemoGPA/HalemoGPA/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HalemoGPA&repo=HalemoGPA&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<!--
-</p>
-<!--
-<hr>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
-</p>
--->
-<!--
-<p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA"/>
-</p>
--->
+
 <p align="center">
   <a href="https://www.github.com/flaruns" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/flarun?logo=github&style=for-the-badge&color=282b2f&labelColor=0d1117" alt="GitHub followers badge" /></a>
 </p>
-<!---
-HalemoGPA/HalemoGPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
