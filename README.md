@@ -80,7 +80,7 @@
 <p align="center">
 <!-- Data Analysis, Deep learning model training and validation, Back end development, SQL databases -->
 
-<h3 align="center"> Machine Learning/Deep Learning </h3>
+<h3 align="center"> Machine Learning - Deep Learning </h3>
 <table align="center">
     <tr>
         <td><i>Skills</i></td>
