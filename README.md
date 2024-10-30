@@ -102,19 +102,6 @@
     </tr>
 </table>
 </p>
-
-<h3 align="center">SQL Database Management + Back End Web Development</h3><br>
-
-<p align="center">
-  <img title="Sql Database Management" height="75" src="images/sql-database-generic.svg">
-  <img title="Back End Web Development" height="75" src="images/nodejs-black.png">
-</p>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-<p align="center">
-<a href="https://github.com/HalemoGPA/">
       <img width=345  src="https://github-readme-stats.vercel.app/api/top-langs/?username=flarun&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  </a>
 </p>
