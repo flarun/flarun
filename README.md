@@ -11,22 +11,22 @@
 ### <img src="/images/Developer.gif" alt="developer gif"  height="45px"> About Me:
 
 <p align="center">
-  Hi, I'm <b>Flavius Constantin Runceanu</b>, Computer Engineer and Data Scientist from ITALY.
+  Hi, I'm <b>Flavius Constantin Runceanu</b>, Computer Engineering student and self-taught applied math enthusiast based in ITALY.
   <br>
   <br>
-  👨‍🎓 I studied Computer Science at the University of Luxembourg (Uni.lu). I am currently studying a Bachelor Degree in Computer Science and Engineering at the University of Brescia (Unibs.it)
+  👨‍🎓 I am currently studying a Bachelor Degree in Computer Science and Engineering at the University of Brescia, Italy.
   <br>
   <br>
-  📊 I love looking into data, finding patterns, and learning everything about it!
+  📊 I love 
   <br>
-  ⚔️ I love coding and solving complex problems!
+  ⚔️ I like complex problems and the endeavour of figuring out an elegant and functional solution for them.
   <br>
   <br>
-  💻 I have 3+ years experience in Tensorflow, PyTorch, Keras, fast.ai, scikit-learn, pandas
+  💻 I have 4+ years experience in Tensorflow, PyTorch, Keras, fast.ai, scikit-learn, pandas. I have 4+ linux and low level kernel experience.
   <br>
-  📚 I’m currently focusing on Machine Learning/Statistics.
+  📚 I’m currently focusing on low level programming, financial mathematics, and applied mathematics.
   <br>
-  📈 I'm passionate about <b>Data Science, Deep Learning</b> and its applications in <b>Self-driving cars, Financial Models, Large Language Models</b>.
+  📈 I'm passionate about <b>Quantitative Finance and methods, Banking Infrastructures</b>.
   <br>
   <br>
   <h3>
@@ -36,8 +36,9 @@
 <p align="center">
 
   <!-- LINKEDIN -->
+<!-- <a href="https://www.linkedin.com/in/flavius-constantin-runceanu/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> <!-- EMAIL --> <a href="mailto:runceanuflavius@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a> <!-- WHATSAPP --> <a href="http://wa.me//00393204616889"><img src="https://img.shields.io/badge/WhatsApp-45D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=30></a> <!-- TELEGRAM --> <a href="https://t.me/mynameisflavius"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=30></a> <!-- FACEBOOK --> <a href="https://www.facebook.com/profile.php?id=100071589776163"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=30></a> -->
 
-<a href="https://www.linkedin.com/in/flavius-constantin-runceanu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> <!-- EMAIL --> <a href="mailto:runceanuflavius@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a> <!-- WHATSAPP --> <a href="http://wa.me//00393204616889"><img src="https://img.shields.io/badge/WhatsApp-45D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=30></a> <!-- TELEGRAM --> <a href="https://t.me/mynameisflavius"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=30></a> <!-- FACEBOOK --> <a href="https://www.facebook.com/profile.php?id=100071589776163"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=30></a>
+<a href="https://www.linkedin.com/in/flavius-constantin-runceanu/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> <!-- EMAIL --> <a href="mailto:runceanuflavius@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a> <!-- WHATSAPP --> <a href="http://wa.me//00393204616889"><img src="https://img.shields.io/badge/WhatsApp-45D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=30></a> <!-- TELEGRAM --> <a href="https://t.me/easycontactf"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=30></a>
 
 <hr>
 
@@ -48,14 +49,9 @@
 <p align="center">
   <img title="Python" height="60" src="images/python-original.svg">
   <img title="Java" height="60" src="images/java.svg">
-  <img title="C" height="60" src="images/c.svg">
   <img title="C++" height="60" src="images/cpp.svg">
-  <img title="C#" height="60" src="images/cSharp.svg">
-  <img title="Javascript" height="60" src="images/javascript.svg">
-    <img title="TypeScript" height="60" src="images/Typescript.svg">
   <img title="Haskell" height="60" src="images/haskell.svg">
   <img title="OCaml" height="60" src="images/ocaml.svg">
-  <img title="PHP" height="60" src="images/php.svg">
 </p>
 
 <h2 align="center">⚙️ Frameworks & Tools 🔨</h2><br>
@@ -71,9 +67,6 @@
   <img title="Matplotlib" height="60" src="images/matplotlib.svg">
   <img title="Seaborn" height="60" src="images/seaborn.svg">
   <img title="Scikit Learn" height="60" src="images/Scikit_learn.svg">
-  <img title="ReactJS" height="60" src="images/reactjs.svg">
-  <img title="Angular" height="60" src="images/angular.svg">
-  <img title="PostgreSQL" height="60" src="images/postgresql.svg">
 </p>
 
 <h2 align="center">🟢 Abilities 🟢</h2><br>
