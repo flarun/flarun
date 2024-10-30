@@ -17,7 +17,7 @@
   👨‍🎓 I am currently studying a Bachelor Degree in Computer Science and Engineering at the University of Brescia, Italy.
   <br>
   <br>
-  📊 I love 
+  📊 I love mathematics and its application in numerical and financial methods.
   <br>
   ⚔️ I like complex problems and the endeavour of figuring out an elegant and functional solution for them.
   <br>
